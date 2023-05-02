@@ -1,2 +1,2 @@
-# data_analysys
+# data_analysis
 yandex practicum projects
